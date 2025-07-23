@@ -5,5 +5,5 @@ CONFIG = {
     "vectorizer_path": "vectorizer.pkl"
 }
 
-DATASET_PATH = "/app/data/dataset.csv"
+DATASET_PATH = "data/dataset.csv"
 
