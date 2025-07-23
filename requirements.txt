@@ -1,0 +1,9 @@
+flask
+scikit-learn
+numpy
+joblib
+pandas
+nltk
+pytest
+prometheus_flask_exporter
+
