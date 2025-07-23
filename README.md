@@ -1,7 +1,3 @@
-¡Claro, Nicolás! Aquí tienes el contenido del `README.md` en **texto plano**, listo para copiar y pegar:
-
----
-
 # 🤖 Chatbot IA con DevOps
 
 Este proyecto implementa un chatbot inteligente capaz de detectar si un texto fue escrito por un humano o por una inteligencia artificial, utilizando técnicas de procesamiento de lenguaje natural y aprendizaje automático. Toda la solución está contenida y automatizada con herramientas DevOps.
